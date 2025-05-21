@@ -26,9 +26,12 @@ Try the application live:
 3. Result Display: The recommended crop is displayed on the web interface for the user.
 
 # 🗂️ Project Structure
-- ├── Crop Recommendation.py       # Script for training the ML model
-- ├── Crop_recommendation.csv      # Dataset containing soil and environmental parameters
-- ├── app.py                       # Main Flask application
+├── Crop Recommendation.py       # Script for training the ML model
+
+├── Crop_recommendation.csv      # Dataset containing soil and environmental parameters
+
+├── app.py                       # Main Flask application
+
 ├── model.pkl                    # Serialized trained ML model
 ├── requirements.txt             # Python dependencies
 ├── templates/
