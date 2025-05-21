@@ -13,13 +13,13 @@ Try the application live:
 
 # 🧠 How It Works
 1. Data Input: Users provide values for:
-- Nitrogen (N)
-- Phosphorus (P)
-- Potassium (K)
-- Temperature
-- Humidity
-- pH
-- Rainfall
+   - Nitrogen (N)
+   - Phosphorus (P)
+   - Potassium (K)
+   - Temperature
+   - Humidity
+   - pH
+   - Rainfall
 
 2. Model Prediction: The application processes the input through a pre-trained machine learning model (model.pkl) to predict the most suitable crop.
 
@@ -27,11 +27,8 @@ Try the application live:
 
 # 🗂️ Project Structure
 ├── Crop Recommendation.py       # Script for training the ML model
-
 ├── Crop_recommendation.csv      # Dataset containing soil and environmental parameters
-
 ├── app.py                       # Main Flask application
-
 ├── model.pkl                    # Serialized trained ML model
 ├── requirements.txt             # Python dependencies
 ├── templates/
