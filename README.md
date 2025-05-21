@@ -5,7 +5,7 @@ A machine learning-based web application designed to recommend the most suitable
 
 ## 🔗 Live Demo
 Access the deployed application here:
-👉 [Crop Prediction Web App](https://crop-predication-lgkr.onrender.com)
+👉 [🌾 Crop Prediction App](https://crop-predication-lgkr.onrender.com)
 
 ---
 
@@ -43,17 +43,6 @@ The dataset used for training is `Crop_recommendation.csv`, which contains:
 
 ---
 
-## 🤖 Model Training (Optional)
-
-If you'd like to retrain the machine learning model using the dataset:
-
-```bash```
-python "Crop Recommendation.py"
-
-This script will generate a new model.pkl file based on the training data.
-
----
-
 ## 🧰 Requirements
 - Python 3.x
 - Flask
@@ -61,18 +50,19 @@ This script will generate a new model.pkl file based on the training data.
 - pandas
 - numpy
 
-All dependencies are listed in the requirements.txt file.
+All dependencies are listed in the `requirements.txt` file.
 
 ---
 
 ## 🙌 Acknowledgements
 Inspired by the need to integrate machine learning into agriculture for better decision-making.
 
-Dataset sourced from Kaggle.
+Dataset sourced from [Kaggle](https://www.kaggle.com/).
 
 ---
 
 ## 📬 Contact
 GitHub: [@LakshyaParihar15](https://github.com/LakshyaParihar15)
 
-Live App: https://crop-predication-lgkr.onrender.com
+## 🖥️Live App
+[🌱🌦️ Smart Crop Recommender using Machine Learning](https://crop-predication-lgkr.onrender.com/)
