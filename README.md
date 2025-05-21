@@ -13,13 +13,13 @@ Try the application live:
 
 # 🧠 How It Works
 1. Data Input: Users provide values for:
- - Nitrogen (N)
- - Phosphorus (P)
- - Potassium (K)
- - Temperature
- - Humidity
- - pH
- - Rainfall
+  - Nitrogen (N)
+  - Phosphorus (P)
+  - Potassium (K)
+  - Temperature
+  - Humidity
+  - pH
+  - Rainfall
 
 2. Model Prediction: The application processes the input through a pre-trained machine learning model (model.pkl) to predict the most suitable crop.
 
