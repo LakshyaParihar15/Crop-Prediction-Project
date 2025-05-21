@@ -46,20 +46,20 @@ The dataset (Crop_recommendation.csv) comprises various records with features su
 
 # 🛠️ Installation & Usage
 1. Clone the Repository:
-git clone https://github.com/LakshyaParihar15/Crop-Prediction-Project.git
-cd Crop-Prediction-Project
+   git clone https://github.com/LakshyaParihar15/Crop-Prediction-Project.git
+   cd Crop-Prediction-Project
 
-2. Create a Virtual Environment (Optional but recommended):
+3. Create a Virtual Environment (Optional but recommended):
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 
-3. Install Dependencies:
+4. Install Dependencies:
 pip install -r requirements.txt
 
-4. Run the Application:
+5. Run the Application:
 python app.py
 
-5. Access the Web Interface:
+6. Access the Web Interface:
 Open your browser and navigate to http://127.0.0.1:5000/
 
 # 🤖 Model Training
